@@ -1,0 +1,14 @@
+D:\Перенос\C#\crypto\crypto\bin\Debug\net8.0\crypto.exe
+D:\Перенос\C#\crypto\crypto\bin\Debug\net8.0\crypto.deps.json
+D:\Перенос\C#\crypto\crypto\bin\Debug\net8.0\crypto.runtimeconfig.json
+D:\Перенос\C#\crypto\crypto\bin\Debug\net8.0\crypto.dll
+D:\Перенос\C#\crypto\crypto\bin\Debug\net8.0\crypto.pdb
+D:\Перенос\C#\crypto\crypto\obj\Debug\net8.0\crypto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Перенос\C#\crypto\crypto\obj\Debug\net8.0\crypto.AssemblyInfoInputs.cache
+D:\Перенос\C#\crypto\crypto\obj\Debug\net8.0\crypto.AssemblyInfo.cs
+D:\Перенос\C#\crypto\crypto\obj\Debug\net8.0\crypto.csproj.CoreCompileInputs.cache
+D:\Перенос\C#\crypto\crypto\obj\Debug\net8.0\crypto.dll
+D:\Перенос\C#\crypto\crypto\obj\Debug\net8.0\refint\crypto.dll
+D:\Перенос\C#\crypto\crypto\obj\Debug\net8.0\crypto.pdb
+D:\Перенос\C#\crypto\crypto\obj\Debug\net8.0\crypto.genruntimeconfig.cache
+D:\Перенос\C#\crypto\crypto\obj\Debug\net8.0\ref\crypto.dll
